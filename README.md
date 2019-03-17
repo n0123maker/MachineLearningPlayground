@@ -2,12 +2,12 @@
 
 TensorFlow GPU support requires an assortment of drivers and libraries.
 
-##### The following NVIDIA® software must be installed:
-* NVIDIA® GPU Drivers
+##### The following NVIDIAÂ® software must be installed:
+* NVIDIAÂ® GPU Drivers
     ```
     419.35-notebook-win10-64bit-international-whql.exe
     ```
-* CUDA® Toolkit
+* CUDAÂ® Toolkit
     ```
     cuda_10.0.130_411.31_win10.exe
     ```
@@ -28,3 +28,31 @@ C:\> SET PATH=C:\tools\cuda\bin;%PATH%
 ```
 
 Reference: https://www.tensorflow.org/install/gpu
+
+# Course Material
+
+## CS 189/289A: Introduction to Machine Learning (Berkeley)
+https://people.eecs.berkeley.edu/~jrs/189/
+
+### Prerequisites
+
+Linear Algebra: http://cs229.stanford.edu/section/cs229-linalg.pdf
+
+Probability Theory: http://cs229.stanford.edu/section/cs229-prob.pdf
+
+Math for Machine Learning: http://gwthomas.github.io/docs/math4ml.pdf
+
+### Textbooks
+
+#### An Introduction to Statistical Learning with Applications in R
+http://www-bcf.usc.edu/~gareth/ISL/
+
+Videos: https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+
+#### The Elements of Statistical Learning - Data Mining, Inference and Prediction
+https://web.stanford.edu/~hastie/ElemStatLearn/
+
+## Deep Reinforcement Learning
+http://rail.eecs.berkeley.edu/deeprlcourse/
+
+Videos: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
