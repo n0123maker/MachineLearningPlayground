@@ -60,3 +60,7 @@ Videos: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 ## Nvidia Deep Learning Institute
 
 https://www.nvidia.com/en-us/deep-learning-ai/education/
+
+## Awesome Deep Learning
+
+https://github.com/ChristosChristofidis/awesome-deep-learning
