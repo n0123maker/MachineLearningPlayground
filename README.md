@@ -64,3 +64,7 @@ https://www.nvidia.com/en-us/deep-learning-ai/education/
 ## Awesome Deep Learning
 
 https://github.com/ChristosChristofidis/awesome-deep-learning
+
+## Data Science Cheat Sheet
+
+https://github.com/abhat222/Data-Science--Cheat-Sheet
