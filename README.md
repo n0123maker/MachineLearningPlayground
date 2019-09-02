@@ -5,7 +5,7 @@ TensorFlow GPU support requires an assortment of drivers and libraries.
 ##### The following NVIDIA® software must be installed:
 * NVIDIA® GPU Drivers
     ```
-    436.35-notebook-win10-64bit-international-whql.exe
+    436.15-notebook-win10-64bit-international-whql.exe
     ```
 * CUDA® Toolkit
     ```
