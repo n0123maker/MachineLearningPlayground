@@ -31,10 +31,10 @@ Reference: https://www.tensorflow.org/install/gpu
 
 # Course Material
 
-## CS 189/289A: Introduction to Machine Learning (Berkeley)
+## CS189/289A: Introduction to Machine Learning (Berkeley)
 https://people.eecs.berkeley.edu/~jrs/189/
 
-### Prerequisites
+Prerequisites:
 
 Linear Algebra: http://cs229.stanford.edu/section/cs229-linalg.pdf
 
@@ -42,20 +42,26 @@ Probability Theory: http://cs229.stanford.edu/section/cs229-prob.pdf
 
 Math for Machine Learning: http://gwthomas.github.io/docs/math4ml.pdf
 
-### Textbooks
+## CS231n: Convolutional Neural Networks for Visual Recognition | Spring 2019
+http://cs231n.stanford.edu/
 
-#### An Introduction to Statistical Learning with Applications in R
+## CS224n: NLP with Deep Learning, Stanford | Winter 2019
+http://web.stanford.edu/class/cs224n/
+
+## CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
+http://rail.eecs.berkeley.edu/deeprlcourse/
+
+## Textbooks
+
+An Introduction to Statistical Learning with Applications in R
+
 http://www-bcf.usc.edu/~gareth/ISL/
 
 Videos: https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
-#### The Elements of Statistical Learning - Data Mining, Inference and Prediction
+The Elements of Statistical Learning - Data Mining, Inference and Prediction
+
 https://web.stanford.edu/~hastie/ElemStatLearn/
-
-## Deep Reinforcement Learning
-http://rail.eecs.berkeley.edu/deeprlcourse/
-
-Videos: https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 
 ## Nvidia Deep Learning Institute
 
